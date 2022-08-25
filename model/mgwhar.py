@@ -15,7 +15,7 @@ para_dict = {
     "seed": 2022,
     "length": 1,
     "sample_size": 24,
-    "dropout": 0.2408374776267149,
+    "dropout": 0.0,
     "lstm_size": 64,
     "lstm_layer_num": 2,
     "gconv1_dim": 64,
